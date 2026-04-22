@@ -107,7 +107,7 @@ Easily integrates new tools, APIs, or modules.
 ---
 
 ## 📁 Project Structure
-"'
+'''
 
 AUTONARA/
 │
@@ -123,7 +123,7 @@ AUTONARA/
 ├── requirements.txt
 └── README.md
 
-'"
+'''
 
 
 ---
