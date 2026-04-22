@@ -108,6 +108,7 @@ Easily integrates new tools, APIs, or modules.
 
 ## 📁 Project Structure
 '''
+
 AUTONARA/
 │
 ├── src/
@@ -121,6 +122,7 @@ AUTONARA/
 ├── main.py # Entry point
 ├── requirements.txt
 └── README.md
+
 '''
 
 
