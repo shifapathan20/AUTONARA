@@ -108,21 +108,18 @@ Easily integrates new tools, APIs, or modules.
 
 ## 📁 Project Structure
 '''
-
-AUTONARA/
+AUTONARA
+├── src
+│ ├── agents → AI agent logic
+│ ├── workflows → Task orchestration
+│ └── utils → Helper functions
 │
-├── src/
-│ ├── agents/ # AI agent logic
-│ ├── workflows/ # Task orchestration
-│ ├── utils/ # Helper functions
+├── frontend → UI components
+├── assets → Static files
 │
-├── frontend/ # UI components
-├── assets/ # Static files
-│
-├── main.py # Entry point
-├── requirements.txt
-└── README.md
-
+├── main.py → Entry point
+├── requirements.txt → Dependencies
+└── README.md → Project documentation
 '''
 
 
