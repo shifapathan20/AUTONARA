@@ -109,7 +109,6 @@ Easily integrates new tools, APIs, or modules.
 ## 📁 Project Structure
 ```
 AUTONARA
-
 ├── src
 │ ├── agents → AI agent logic
 │ ├── workflows → Task orchestration
@@ -164,6 +163,8 @@ git push origin feature/new-feature
 Then open a Pull Request 🚀
 ```
 📬 Contact
-📧 Email: your-email@example.com
-💼 LinkedIn: https://linkedin.com/in/your-profile
+📧 Email: shifapathan2026@gmail.com
+💼 LinkedIn: www.linkedin.com/in/shifapathan20
+
+
 ```
