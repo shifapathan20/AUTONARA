@@ -107,8 +107,8 @@ Easily integrates new tools, APIs, or modules.
 ---
 
 ## 📁 Project Structure
-"'
-AUTONARA/
+
+'''AUTONARA/
 │
 ├── src/
 │ ├── agents/ # AI agent logic
@@ -120,8 +120,7 @@ AUTONARA/
 │
 ├── main.py # Entry point
 ├── requirements.txt
-└── README.md
-"'
+└── README.md'''
 
 
 ---
