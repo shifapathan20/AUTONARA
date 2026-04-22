@@ -107,7 +107,7 @@ Easily integrates new tools, APIs, or modules.
 ---
 
 ## 📁 Project Structure
-
+```
 AUTONARA
 
 ├── src
@@ -121,8 +121,7 @@ AUTONARA
 ├── main.py → Entry point
 ├── requirements.txt → Dependencies
 └── README.md → Project documentation
-
-
+```
 
 ---
 
@@ -163,7 +162,8 @@ git commit -m "Add new feature"
 git push origin feature/new-feature
 
 Then open a Pull Request 🚀
-
+```
 📬 Contact
 📧 Email: your-email@example.com
 💼 LinkedIn: https://linkedin.com/in/your-profile
+```
